@@ -1,9 +1,9 @@
 <h1 align="center">
   <p> 
-    🌱 <img src="images/letreiro.gif" alt="Text" width="100%"> 🌱
+    <img src="images/letreiro.gif" alt="Text" width="100%">
   </p>
-  <img src="images/pompompurin.gif" alt="Text" width="100%">
 </h1>
+<img src="images/pompompurin.gif" alt="Text" width="100%">
 <br>
 <br>
 <p align="left">
