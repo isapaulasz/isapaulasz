@@ -1,10 +1,9 @@
 <h1 align="center">
-  <p> 
-    <img src="images/letreiro.gif" alt="Text" width="100%">
-  </p>
+    <img src="images/letreiro.gif" alt="Text" width="50%">
 </h1>
-<img src="images/pompompurin.gif" alt="Text" width="100%">
+<img src="images/pompompurin.gif" alt="Text" width="50%">
 <br>
+<h2>About Me</h2>
 <br>
 <p align="left">
    🔭 I’m currently working on <strong>Data Engineering</strong><br>
