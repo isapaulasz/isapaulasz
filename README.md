@@ -13,7 +13,7 @@
 > 
 > ✩ Estagiária de AI-Driven Data Engineer na empresa AI/R ✩
 > 
-> ✩ Foco: dados · IA · comunicação ✩ Buscando: Estágio ou Trainee em Engenharia de Dados ✩ 
+> ✩ Foco: dados · IA · comunicação ✩ 
 
 ---
 
