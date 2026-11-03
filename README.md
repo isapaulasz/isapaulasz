@@ -7,8 +7,12 @@
 <a href="https://learn.microsoft.com/pt-br/users/isapaulasz/"><img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Learn-0089D6?logo=msazure&logoColor=white">
 </h1>
 
-> ✩ Estudante de Análise e Desenvolvimento de Sistemas (IFPA) ✩ Voluntária na Comunidade [First Commit -m](www.linkedin.com/company/first-commit-m) ✩
->
+> ✩ Estudante de Análise e Desenvolvimento de Sistemas (IFPA) ✩
+> 
+> ✩ Voluntária na Comunidade [First Commit -m](www.linkedin.com/company/first-commit-m) ✩
+> 
+> ✩ Estagiária de AI-Driven Data Engineer na empresa AI/R ✩
+> 
 > ✩ Foco: dados · IA · comunicação ✩ Buscando: Estágio ou Trainee em Engenharia de Dados ✩ 
 
 ---
