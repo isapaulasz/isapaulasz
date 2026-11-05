@@ -72,8 +72,8 @@ Repositório com anotações e exercícios de Python, desenvolvidos durante estu
 # 🛠 GitHub Analytics
 <p align="center">
 <a href="https://github.com/smir45">
-  <img height="150em" alt="image" src="https://github-stats-extended.vercel.app/api?username=isapaulasz&rank_icon=github&show_icons=true&include_all_commits=true&theme=bear"/>
-  <img height="150em" alt="image" src="https://github-stats-extended.vercel.app/api/top-langs?username=isapaulasz&layout=compact&langs_count=4&theme=bear"/>
+  <img height="150em" alt="image" src="https://github-stats-extended.vercel.app/api?username=isapaulasz&rank_icon=github&show_icons=true&include_all_commits=true&theme=onedark"/>
+  <img height="150em" alt="image" src="https://github-stats-extended.vercel.app/api/top-langs?username=isapaulasz&layout=compact&langs_count=4&theme=onedark"/>
 </a>
 </p>
 <div align="center">
